@@ -128,10 +128,10 @@ def use_checkfree_tool():
 def second_menu():
     console = Console()
     console.print("[bold blue]Telegram: @@VictorIsGeek [/bold blue]\n")
-    console.print("[bold yellow[1] Dig Subdomains[/bold yellow]")
-    console.print("[bold green][2] Subdomain Finder with Bugscanner[/bold green]")
+    console.print("[bold yellow][1] Dig Subdomains[/bold yellow]")
+    console.print("[bold red][2] Subdomain Finder with Bugscanner[/bold red]")
     console.print("[bold yellow][3] SNI finder[/bold yellow]")
-    console.print("[bold red][4] CDN SSL Scanner[/bold red]")
+    console.print("[bold green][4] CDN SSL Scanner[/bold green]")
     console.print("[bold cyan][5] Scan  Cloudflare IP[/bold cyan]\n")
 
     choice = console.input("[magenta][-][/magenta] Select method (1-5):> ")
