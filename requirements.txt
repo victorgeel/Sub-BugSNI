@@ -9,3 +9,6 @@ requests
 rich
 sublist3r
 termcolor
+loguru
+multithreading
+bugscanner
