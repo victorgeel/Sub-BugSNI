@@ -12,10 +12,12 @@ One-click tool for deep search Subdomain and Bug or working SNI
 
 # _____________
 
-# Subfinder+Bug SNI + Cdn SS     freenet Tool for Termux
+# Subfinder+Bug SNI + Cdn SSL
+
+# Freenet Tool for Termux
 
 
-Follow below Command
+## Follow below Command
 ________________
 
 
@@ -34,6 +36,8 @@ echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc
 
 
 python3 run.py
+
+# ____________
 
 # ENJOY 🍭🍭💟
 
