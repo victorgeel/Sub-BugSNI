@@ -17,7 +17,7 @@ One-click tool for deep search Subdomain and Bug or working SNI
 # Freenet Tool for Termux
 
 
-## Follow below Command
+## Copy and paste Cmd 
 ________________
 
 
