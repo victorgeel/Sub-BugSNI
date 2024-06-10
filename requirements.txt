@@ -1,8 +1,8 @@
 urllib3==1.25.11
 cfscrape==2.0.7
 aiohttp
+bugscanner
 certifi
-cfscrape
 colorama
 ipaddress
 requests
@@ -11,4 +11,3 @@ sublist3r
 termcolor
 loguru
 multithreading
-bugscanner
